@@ -41,6 +41,7 @@ nn.Sequential(
     nn.Linear(512, num_classes)
 )
 ```
+![image](https://github.com/user-attachments/assets/8f0af4cf-a313-425b-a1ea-a3905618b259)
 
 ---
 
